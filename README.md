@@ -1,5 +1,7 @@
 playbook for perfSONAR deployment and config
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/d3f6711f-fa42-4a28-9077-dffd802d0d8b.svg?orgId=635054152320)](https://app.soluble.cloud/repos/details/github.com/aggie-innovation-platform-private/ansible-playbook-perfsonar?orgId=635054152320)  
+
 **Quick Start**:
 
 Clone this repository:
